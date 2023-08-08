@@ -26,8 +26,3 @@ Below are sample results achieved by the model:
 
 Feel free to explore more results and the model's performance in the project's Jupyter Notebook.
 
----
-
-By [Your Name]
-
-**Disclaimer:** The project's performance is influenced by factors like dataset quality, preprocessing techniques, and hyperparameter settings. This work is conducted for educational and research purposes.
