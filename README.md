@@ -14,11 +14,15 @@ The U-Net architecture is employed in this project due to its effectiveness in c
 
 The project utilizes the 'Lyft Udacity Challenge' dataset, which can be accessed on Kaggle using the following link: ([Semantic Segmentation for Self Driving Cars | Kaggle](https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge)).
 
-## Sample Result
+## Result
 
-Below is a sample result achieved by  U-Net model:
+Training accuracy : 98.02 %
+Validation accuracy : 97.78 %
 
-![Sample Result](/sample_result.jpg)
+Below are sample results achieved by the model:
+
+![Sample Result](/prediction/1.png)
+![Sample Result](/prediction/2.png)
 
 Feel free to explore more results and the model's performance in the project's Jupyter Notebook.
 
