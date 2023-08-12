@@ -1,4 +1,4 @@
-"# Semantic Segmentation and Object Detection for Self-Driving Cars
+# Semantic Segmentation and Object Detection for Self-Driving Cars
 
 This repository showcases the implementation of both **Semantic Segmentation Model** and **Object Detection Model** for Self-Driving Cars.
 ## Introduction
